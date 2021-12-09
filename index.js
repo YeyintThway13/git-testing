@@ -1,3 +1,3 @@
 console.log("Our Js file");
 
-console.log("JS feature done");
+console.log("New");
